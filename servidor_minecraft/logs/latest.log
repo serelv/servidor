@@ -87,3 +87,27 @@
 [17:55:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-202, y=69, z=14}
 [17:57:13] [Server thread/INFO]: _ElGordito33_ has made the advancement [Suit Up]
 [17:58:35] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
+[18:02:22] [Server thread/INFO]: Rotnni lost connection: Timed out
+[18:02:22] [Server thread/INFO]: Rotnni left the game
+[18:02:22] [Server thread/WARN]: handleDisconnection() called twice
+[18:02:41] [Server thread/INFO]: Rotnni[/127.50.40.223:44775] logged in with entity id 32828 at (-3023.2679301101516, 74.17675927506424, -270.97210633143555)
+[18:02:41] [Server thread/INFO]: Rotnni joined the game
+[18:03:52] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Rot?
+[18:04:19] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
+[18:04:19] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
+[18:04:19] [Server thread/INFO]: Yvisrogt left the game
+[18:04:24] [Server thread/INFO]: [Rotnni: Kicked _ElGordito33_: Kicked by an operator]
+[18:04:24] [Server thread/INFO]: _ElGordito33_ lost connection: Kicked by an operator
+[18:04:24] [Server thread/INFO]: _ElGordito33_ left the game
+[18:04:27] [Server thread/INFO]: Yvisrogt[/127.117.190.220:36805] logged in with entity id 33449 at (-3043.9326029488993, 73.0, -257.5600036269925)
+[18:04:27] [Server thread/INFO]: Yvisrogt joined the game
+[18:04:46] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:47471] logged in with entity id 33615 at (-3069.996633503417, 73.02442408821369, -285.6741915542856)
+[18:04:46] [Server thread/INFO]: _ElGordito33_ joined the game
+[18:05:19] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Asi mismo esclava
+[18:05:21] [Server thread/INFO]: [Not Secure] <_ElGordito33_> dame mas
+[18:05:32] [Server thread/INFO]: Rotnni has made the advancement [What a Deal!]
+[18:06:15] [Server thread/INFO]: Yvisrogt has made the advancement [Isn't It Iron Pick]
+[18:08:38] [Server thread/INFO]: _ElGordito33_ was slain by Iron Golem
+[18:08:56] [Server thread/INFO]: [Not Secure] <Yvisrogt> vengo ahora
+[18:08:58] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to Rotnni]
+[18:08:59] [Server thread/INFO]: [Not Secure] <Rotnni> ok
