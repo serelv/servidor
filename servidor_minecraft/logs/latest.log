@@ -53,3 +53,21 @@
 [17:01:28] [Server thread/INFO]: _ElGordito33_ has made the advancement [Getting an Upgrade]
 [17:02:26] [Server thread/INFO]: _ElGordito33_ has made the advancement [Acquire Hardware]
 [17:09:52] [Server thread/INFO]: _ElGordito33_ has made the advancement [Sweet Dreams]
+[17:20:29] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
+[17:20:29] [Server thread/INFO]: _ElGordito33_ left the game
+[17:23:46] [Server thread/INFO]: Yvisrogt[/127.117.190.220:37789] logged in with entity id 15685 at (-2943.2124112295633, 74.0, -224.66619900470104)
+[17:23:46] [Server thread/INFO]: Yvisrogt joined the game
+[17:24:37] [Server thread/INFO]: [Not Secure] <Yvisrogt> ala
+[17:24:48] [Server thread/INFO]: [Not Secure] <Yvisrogt> contesta vale
+[17:26:01] [Server thread/INFO]: Yvisrogt was slain by Spider
+[17:26:18] [Server thread/INFO]: [Not Secure] <Yvisrogt> damn
+[17:34:16] [Server thread/INFO]: [Not Secure] <Yvisrogt> weyyyyyyyyyyyyyyyyyyyyy
+[17:35:22] [Server thread/INFO]: Villager cmk['Cleric'/82, l='ServerLevel[world]', x=-3056.30, y=72.30, z=-226.60] died, message: 'Cleric was slain by Zombie'
+[17:35:53] [Server thread/INFO]: Villager cmk['Villager'/6, l='ServerLevel[world]', x=-222.11, y=58.00, z=34.86] died, message: 'Villager was slain by Zombie'
+[17:35:54] [Server thread/INFO]: Villager cmk['Farmer'/16, l='ServerLevel[world]', x=-147.59, y=63.00, z=14.25] was struck by lightning btm['Lightning Bolt'/19139, l='ServerLevel[world]', x=-147.50, y=63.00, z=14.50].
+[17:39:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-200, y=69, z=34} jd{x=-201, y=67, z=33}
+[17:39:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-202, y=70, z=32} jd{x=-201, y=68, z=32}
+[17:39:09] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
+[17:40:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2981, y=74, z=-242} jd{x=-2982, y=72, z=-243}
+[17:40:34] [Server thread/INFO]: Yvisrogt was slain by Iron Golem
+[17:40:54] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
