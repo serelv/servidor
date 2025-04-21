@@ -71,3 +71,19 @@
 [17:40:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2981, y=74, z=-242} jd{x=-2982, y=72, z=-243}
 [17:40:34] [Server thread/INFO]: Yvisrogt was slain by Iron Golem
 [17:40:54] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
+[17:45:44] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:55473] logged in with entity id 23002 at (-3024.365704154003, 72.0, -280.3761600175423)
+[17:45:44] [Server thread/INFO]: _ElGordito33_ joined the game
+[17:48:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3029, y=72, z=-287} jd{x=-3030, y=71, z=-287}
+[17:48:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3024, y=72, z=-287} jd{x=-3024, y=71, z=-289}
+[17:49:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3024, y=73, z=-298} jd{x=-3023, y=73, z=-298}
+[17:50:54] [Server thread/WARN]: Yvisrogt moved too quickly! 3.059246609278489,0.8291870918577047,9.75188599795609
+[17:53:23] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
+[17:53:23] [Server thread/INFO]: _ElGordito33_ left the game
+[17:53:42] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:41191] logged in with entity id 26868 at (-3008.5427670381187, 72.9375, -296.1353337718753)
+[17:53:42] [Server thread/INFO]: _ElGordito33_ joined the game
+[17:54:47] [Server thread/INFO]: Yvisrogt was slain by Zombie
+[17:55:01] [Server thread/INFO]: [Not Secure] <Yvisrogt> Madisson no te apurea
+[17:55:26] [Server thread/INFO]: Yvisrogt was slain by Iron Golem
+[17:55:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-202, y=69, z=14}
+[17:57:13] [Server thread/INFO]: _ElGordito33_ has made the advancement [Suit Up]
+[17:58:35] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
