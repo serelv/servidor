@@ -419,6 +419,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-21 16:15:45 +0000",
+      "cooked_chicken": "2025-04-21 18:13:43 +0000",
       "carrot": "2025-04-21 17:45:12 +0000"
     },
     "done": false
