@@ -1,0 +1,55 @@
+[16:40:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:41:01] [ServerMain/INFO]: Loaded 1290 recipes
+[16:41:01] [ServerMain/INFO]: Loaded 1399 advancements
+[16:41:01] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:41:01] [Server thread/INFO]: Loading properties
+[16:41:01] [Server thread/INFO]: Default game type: SURVIVAL
+[16:41:01] [Server thread/INFO]: Generating keypair
+[16:41:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:41:01] [Server thread/INFO]: Using epoll channel type
+[16:41:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:41:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:41:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:41:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:41:01] [Server thread/INFO]: Preparing level "world"
+[16:41:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:41:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:41:04] [Server thread/INFO]: Time elapsed: 474 ms
+[16:41:04] [Server thread/INFO]: Done (2.872s)! For help, type "help"
+[16:41:15] [Server thread/INFO]: Rotnni[/127.50.40.223:51469] logged in with entity id 24 at (-3012.0595232950086, 72.0, -241.0645975908044)
+[16:41:15] [Server thread/INFO]: Rotnni joined the game
+[16:41:21] [Server thread/INFO]: Yvisrogt[/127.117.190.220:37143] logged in with entity id 429 at (-2997.079141549369, 71.93612497923645, -254.69999998807907)
+[16:41:21] [Server thread/INFO]: Yvisrogt joined the game
+[16:44:39] [Server thread/INFO]: Rotnni has made the advancement [Isn't It Iron Pick]
+[16:49:29] [Server thread/INFO]: Yvisrogt has made the advancement [Suit Up]
+[16:49:31] [Server thread/INFO]: Yvisrogt has made the advancement [Ice Bucket Challenge]
+[16:50:18] [Server thread/INFO]: Yvisrogt has made the advancement [Acquire Hardware]
+[16:54:34] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:57879] logged in with entity id 7127 at (-201.5, 67.0, 7.5)
+[16:54:34] [Server thread/INFO]: _ElGordito33_ joined the game
+[16:54:42] [Server thread/INFO]: [Not Secure] <Yvisrogt> UNETE A LA LLAMADA
+[16:54:43] [Server thread/INFO]: [Not Secure] <Rotnni> uy
+[16:54:50] [Server thread/INFO]: [Not Secure] <Yvisrogt> en minuscula
+[16:54:54] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Discord?
+[16:55:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-198, y=68, z=14}
+[16:55:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-198, y=68, z=14}
+[16:55:01] [Server thread/INFO]: [Not Secure] <Rotnni> nop
+[16:55:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-198, y=68, z=14}
+[16:55:05] [Server thread/INFO]: [Not Secure] <Rotnni> o si tu quieres
+[16:55:07] [Server thread/INFO]: [Not Secure] <_ElGordito33_> ig
+[16:55:10] [Server thread/INFO]: [Not Secure] <Rotnni> yep
+[16:55:21] [Server thread/INFO]: [Not Secure] <_ElGordito33_> tatola
+[16:56:09] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
+[16:56:09] [Server thread/INFO]: Yvisrogt left the game
+[16:56:16] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to Rotnni]
+[16:57:06] [Server thread/INFO]: [Not Secure] <Rotnni> mio?
+[16:57:09] [Server thread/INFO]: [Not Secure] <Rotnni> a si
+[16:57:28] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Precioso
+[16:58:38] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
+[16:58:38] [Server thread/INFO]: _ElGordito33_ left the game
+[16:58:53] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:41909] logged in with entity id 8942 at (-3032.5710989409154, 73.0, -290.62041414756106)
+[16:58:53] [Server thread/INFO]: _ElGordito33_ joined the game
+[16:58:54] [Server thread/INFO]: Villager cmk['Nitwit'/115, l='ServerLevel[world]', x=-3073.50, y=73.00, z=-317.42] died, message: 'Nitwit was slain by Rotnni'
+[17:00:33] [Server thread/INFO]: _ElGordito33_ has made the advancement [Stone Age]
+[17:01:28] [Server thread/INFO]: _ElGordito33_ has made the advancement [Getting an Upgrade]
+[17:02:26] [Server thread/INFO]: _ElGordito33_ has made the advancement [Acquire Hardware]
+[17:09:52] [Server thread/INFO]: _ElGordito33_ has made the advancement [Sweet Dreams]
