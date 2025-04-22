@@ -1,147 +1,58 @@
-[16:40:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:41:01] [ServerMain/INFO]: Loaded 1290 recipes
-[16:41:01] [ServerMain/INFO]: Loaded 1399 advancements
-[16:41:01] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:41:01] [Server thread/INFO]: Loading properties
-[16:41:01] [Server thread/INFO]: Default game type: SURVIVAL
-[16:41:01] [Server thread/INFO]: Generating keypair
-[16:41:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:41:01] [Server thread/INFO]: Using epoll channel type
-[16:41:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:41:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:41:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:41:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:41:01] [Server thread/INFO]: Preparing level "world"
-[16:41:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:41:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:41:04] [Server thread/INFO]: Time elapsed: 474 ms
-[16:41:04] [Server thread/INFO]: Done (2.872s)! For help, type "help"
-[16:41:15] [Server thread/INFO]: Rotnni[/127.50.40.223:51469] logged in with entity id 24 at (-3012.0595232950086, 72.0, -241.0645975908044)
-[16:41:15] [Server thread/INFO]: Rotnni joined the game
-[16:41:21] [Server thread/INFO]: Yvisrogt[/127.117.190.220:37143] logged in with entity id 429 at (-2997.079141549369, 71.93612497923645, -254.69999998807907)
-[16:41:21] [Server thread/INFO]: Yvisrogt joined the game
-[16:44:39] [Server thread/INFO]: Rotnni has made the advancement [Isn't It Iron Pick]
-[16:49:29] [Server thread/INFO]: Yvisrogt has made the advancement [Suit Up]
-[16:49:31] [Server thread/INFO]: Yvisrogt has made the advancement [Ice Bucket Challenge]
-[16:50:18] [Server thread/INFO]: Yvisrogt has made the advancement [Acquire Hardware]
-[16:54:34] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:57879] logged in with entity id 7127 at (-201.5, 67.0, 7.5)
-[16:54:34] [Server thread/INFO]: _ElGordito33_ joined the game
-[16:54:42] [Server thread/INFO]: [Not Secure] <Yvisrogt> UNETE A LA LLAMADA
-[16:54:43] [Server thread/INFO]: [Not Secure] <Rotnni> uy
-[16:54:50] [Server thread/INFO]: [Not Secure] <Yvisrogt> en minuscula
-[16:54:54] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Discord?
-[16:55:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-198, y=68, z=14}
-[16:55:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-198, y=68, z=14}
-[16:55:01] [Server thread/INFO]: [Not Secure] <Rotnni> nop
-[16:55:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-198, y=68, z=14}
-[16:55:05] [Server thread/INFO]: [Not Secure] <Rotnni> o si tu quieres
-[16:55:07] [Server thread/INFO]: [Not Secure] <_ElGordito33_> ig
-[16:55:10] [Server thread/INFO]: [Not Secure] <Rotnni> yep
-[16:55:21] [Server thread/INFO]: [Not Secure] <_ElGordito33_> tatola
-[16:56:09] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
-[16:56:09] [Server thread/INFO]: Yvisrogt left the game
-[16:56:16] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to Rotnni]
-[16:57:06] [Server thread/INFO]: [Not Secure] <Rotnni> mio?
-[16:57:09] [Server thread/INFO]: [Not Secure] <Rotnni> a si
-[16:57:28] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Precioso
-[16:58:38] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[16:58:38] [Server thread/INFO]: _ElGordito33_ left the game
-[16:58:53] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:41909] logged in with entity id 8942 at (-3032.5710989409154, 73.0, -290.62041414756106)
-[16:58:53] [Server thread/INFO]: _ElGordito33_ joined the game
-[16:58:54] [Server thread/INFO]: Villager cmk['Nitwit'/115, l='ServerLevel[world]', x=-3073.50, y=73.00, z=-317.42] died, message: 'Nitwit was slain by Rotnni'
-[17:00:33] [Server thread/INFO]: _ElGordito33_ has made the advancement [Stone Age]
-[17:01:28] [Server thread/INFO]: _ElGordito33_ has made the advancement [Getting an Upgrade]
-[17:02:26] [Server thread/INFO]: _ElGordito33_ has made the advancement [Acquire Hardware]
-[17:09:52] [Server thread/INFO]: _ElGordito33_ has made the advancement [Sweet Dreams]
-[17:20:29] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[17:20:29] [Server thread/INFO]: _ElGordito33_ left the game
-[17:23:46] [Server thread/INFO]: Yvisrogt[/127.117.190.220:37789] logged in with entity id 15685 at (-2943.2124112295633, 74.0, -224.66619900470104)
-[17:23:46] [Server thread/INFO]: Yvisrogt joined the game
-[17:24:37] [Server thread/INFO]: [Not Secure] <Yvisrogt> ala
-[17:24:48] [Server thread/INFO]: [Not Secure] <Yvisrogt> contesta vale
-[17:26:01] [Server thread/INFO]: Yvisrogt was slain by Spider
-[17:26:18] [Server thread/INFO]: [Not Secure] <Yvisrogt> damn
-[17:34:16] [Server thread/INFO]: [Not Secure] <Yvisrogt> weyyyyyyyyyyyyyyyyyyyyy
-[17:35:22] [Server thread/INFO]: Villager cmk['Cleric'/82, l='ServerLevel[world]', x=-3056.30, y=72.30, z=-226.60] died, message: 'Cleric was slain by Zombie'
-[17:35:53] [Server thread/INFO]: Villager cmk['Villager'/6, l='ServerLevel[world]', x=-222.11, y=58.00, z=34.86] died, message: 'Villager was slain by Zombie'
-[17:35:54] [Server thread/INFO]: Villager cmk['Farmer'/16, l='ServerLevel[world]', x=-147.59, y=63.00, z=14.25] was struck by lightning btm['Lightning Bolt'/19139, l='ServerLevel[world]', x=-147.50, y=63.00, z=14.50].
-[17:39:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-200, y=69, z=34} jd{x=-201, y=67, z=33}
-[17:39:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-202, y=70, z=32} jd{x=-201, y=68, z=32}
-[17:39:09] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
-[17:40:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2981, y=74, z=-242} jd{x=-2982, y=72, z=-243}
-[17:40:34] [Server thread/INFO]: Yvisrogt was slain by Iron Golem
-[17:40:54] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
-[17:45:44] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:55473] logged in with entity id 23002 at (-3024.365704154003, 72.0, -280.3761600175423)
-[17:45:44] [Server thread/INFO]: _ElGordito33_ joined the game
-[17:48:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3029, y=72, z=-287} jd{x=-3030, y=71, z=-287}
-[17:48:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3024, y=72, z=-287} jd{x=-3024, y=71, z=-289}
-[17:49:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3024, y=73, z=-298} jd{x=-3023, y=73, z=-298}
-[17:50:54] [Server thread/WARN]: Yvisrogt moved too quickly! 3.059246609278489,0.8291870918577047,9.75188599795609
-[17:53:23] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[17:53:23] [Server thread/INFO]: _ElGordito33_ left the game
-[17:53:42] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:41191] logged in with entity id 26868 at (-3008.5427670381187, 72.9375, -296.1353337718753)
-[17:53:42] [Server thread/INFO]: _ElGordito33_ joined the game
-[17:54:47] [Server thread/INFO]: Yvisrogt was slain by Zombie
-[17:55:01] [Server thread/INFO]: [Not Secure] <Yvisrogt> Madisson no te apurea
-[17:55:26] [Server thread/INFO]: Yvisrogt was slain by Iron Golem
-[17:55:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-202, y=69, z=14}
-[17:57:13] [Server thread/INFO]: _ElGordito33_ has made the advancement [Suit Up]
-[17:58:35] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
-[18:02:22] [Server thread/INFO]: Rotnni lost connection: Timed out
-[18:02:22] [Server thread/INFO]: Rotnni left the game
-[18:02:22] [Server thread/WARN]: handleDisconnection() called twice
-[18:02:41] [Server thread/INFO]: Rotnni[/127.50.40.223:44775] logged in with entity id 32828 at (-3023.2679301101516, 74.17675927506424, -270.97210633143555)
-[18:02:41] [Server thread/INFO]: Rotnni joined the game
-[18:03:52] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Rot?
-[18:04:19] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
-[18:04:19] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
-[18:04:19] [Server thread/INFO]: Yvisrogt left the game
-[18:04:24] [Server thread/INFO]: [Rotnni: Kicked _ElGordito33_: Kicked by an operator]
-[18:04:24] [Server thread/INFO]: _ElGordito33_ lost connection: Kicked by an operator
-[18:04:24] [Server thread/INFO]: _ElGordito33_ left the game
-[18:04:27] [Server thread/INFO]: Yvisrogt[/127.117.190.220:36805] logged in with entity id 33449 at (-3043.9326029488993, 73.0, -257.5600036269925)
-[18:04:27] [Server thread/INFO]: Yvisrogt joined the game
-[18:04:46] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:47471] logged in with entity id 33615 at (-3069.996633503417, 73.02442408821369, -285.6741915542856)
-[18:04:46] [Server thread/INFO]: _ElGordito33_ joined the game
-[18:05:19] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Asi mismo esclava
-[18:05:21] [Server thread/INFO]: [Not Secure] <_ElGordito33_> dame mas
-[18:05:32] [Server thread/INFO]: Rotnni has made the advancement [What a Deal!]
-[18:06:15] [Server thread/INFO]: Yvisrogt has made the advancement [Isn't It Iron Pick]
-[18:08:38] [Server thread/INFO]: _ElGordito33_ was slain by Iron Golem
-[18:08:56] [Server thread/INFO]: [Not Secure] <Yvisrogt> vengo ahora
-[18:08:58] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to Rotnni]
-[18:08:59] [Server thread/INFO]: [Not Secure] <Rotnni> ok
-[18:12:40] [Server thread/WARN]: _ElGordito33_ moved too quickly! -3.3967262335063424,-1.373904036466726,9.358846718037228
-[18:14:14] [Server thread/WARN]: _ElGordito33_ moved too quickly! 1.2122583149630373,0.7531999805212024,10.091457397693432
-[18:14:19] [Server thread/WARN]: _ElGordito33_ moved too quickly! 1.6874287772602656,0.8291870918577047,9.911318025026702
-[18:15:35] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
-[18:15:35] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
-[18:15:35] [Server thread/INFO]: Yvisrogt left the game
-[18:15:39] [Server thread/INFO]: [Not Secure] <_ElGordito33_> Rotnni
-[18:16:39] [Server thread/INFO]: _ElGordito33_ has made the advancement [Hot Stuff]
-[18:18:23] [Server thread/INFO]: _ElGordito33_ has made the advancement [What a Deal!]
-[18:19:50] [Server thread/INFO]: _ElGordito33_ has made the advancement [Isn't It Iron Pick]
-[18:24:24] [Server thread/INFO]: Yvisrogt[/127.117.190.220:39645] logged in with entity id 42385 at (-3009.300000011921, 71.0, -236.69999998807907)
-[18:24:24] [Server thread/INFO]: Yvisrogt joined the game
-[18:25:15] [Server thread/INFO]: Yvisrogt was slain by Iron Golem
-[18:25:37] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
-[18:26:44] [Server thread/INFO]: [Not Secure] <_ElGordito33_> DUERMAN
-[18:26:50] [Server thread/INFO]: [Not Secure] <_ElGordito33_> DUERMAN
-[18:26:52] [Server thread/INFO]: [Not Secure] <_ElGordito33_> DUERMAN
-[18:26:54] [Server thread/INFO]: [Not Secure] <_ElGordito33_> DUERMAN
-[18:26:58] [Server thread/INFO]: [Not Secure] <_ElGordito33_> DUERMAN
-[18:27:00] [Server thread/INFO]: [Not Secure] <_ElGordito33_> DUERMAN
-[18:27:02] [Server thread/INFO]: [Not Secure] <_ElGordito33_> DUERAMN
-[18:27:05] [Server thread/INFO]: [Not Secure] <_ElGordito33_> DUERMAN
-[18:27:11] [Server thread/INFO]: [Not Secure] <_ElGordito33_> PERFECTO
-[18:33:29] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[18:33:29] [Server thread/INFO]: _ElGordito33_ left the game
-[18:33:53] [Server thread/INFO]: Rotnni has made the advancement [Cover Me with Diamonds]
-[18:35:06] [Server thread/INFO]: Yvisrogt has made the advancement [Cover Me with Diamonds]
-[18:38:33] [Server thread/INFO]: [Not Secure] <Yvisrogt> lets do this
-[18:41:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3020, y=70, z=-190} jd{x=-3019, y=69, z=-190}
-[18:43:44] [Server thread/INFO]: Rotnni was slain by Iron Golem
-[18:44:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3028, y=75, z=-304} jd{x=-3029, y=74, z=-304}
-[18:44:35] [Server thread/INFO]: Rotnni was slain by Iron Golem
-[18:49:18] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
-[18:49:18] [Server thread/INFO]: Yvisrogt left the game
+[01:17:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:17:13] [ServerMain/INFO]: Loaded 1290 recipes
+[01:17:13] [ServerMain/INFO]: Loaded 1399 advancements
+[01:17:14] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:17:14] [Server thread/INFO]: Loading properties
+[01:17:14] [Server thread/INFO]: Default game type: SURVIVAL
+[01:17:14] [Server thread/INFO]: Generating keypair
+[01:17:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:17:14] [Server thread/INFO]: Using epoll channel type
+[01:17:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:17:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:17:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:17:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:17:14] [Server thread/INFO]: Preparing level "world"
+[01:17:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:17:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:17:17] [Server thread/INFO]: Time elapsed: 450 ms
+[01:17:17] [Server thread/INFO]: Done (2.734s)! For help, type "help"
+[01:17:37] [Server thread/INFO]: Rotnni[/127.50.40.223:37691] logged in with entity id 21 at (-2935.2746003493526, 70.0, -192.30000001192093)
+[01:17:37] [Server thread/INFO]: Rotnni joined the game
+[01:17:53] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:39663] logged in with entity id 1324 at (-3009.0214675134557, 72.0, -238.41256660380742)
+[01:17:53] [Server thread/INFO]: _ElGordito33_ joined the game
+[01:17:56] [Server thread/INFO]: Yvisrogt[/127.117.190.220:43515] logged in with entity id 1500 at (-3009.055932515273, 74.0, -219.6412693734498)
+[01:17:56] [Server thread/INFO]: Yvisrogt joined the game
+[01:18:32] [Server thread/INFO]: _ElGordito33_ was slain by Iron Golem
+[01:20:25] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[01:21:14] [Server thread/INFO]: _ElGordito33_ lost connection: Kicked by an operator
+[01:21:14] [Server thread/INFO]: _ElGordito33_ left the game
+[01:21:14] [Server thread/INFO]: [Rotnni: Kicked _ElGordito33_: Kicked by an operator]
+[01:21:14] [Server thread/WARN]: handleDisconnection() called twice
+[01:21:17] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
+[01:21:17] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
+[01:21:17] [Server thread/INFO]: Yvisrogt left the game
+[01:21:27] [Server thread/INFO]: Yvisrogt[/127.117.190.220:48059] logged in with entity id 2682 at (-3007.5, 71.0, -225.5)
+[01:21:27] [Server thread/INFO]: Yvisrogt joined the game
+[01:21:28] [Server thread/INFO]: _ElGordito33_[/127.11.70.180:48647] logged in with entity id 2727 at (-3015.5, 72.0, -276.5)
+[01:21:28] [Server thread/INFO]: _ElGordito33_ joined the game
+[01:22:07] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
+[01:22:07] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
+[01:22:07] [Server thread/INFO]: Yvisrogt left the game
+[01:22:11] [Server thread/INFO]: Yvisrogt[/127.117.190.220:60681] logged in with entity id 3031 at (-3007.6675052573346, 71.0, -219.30000001192093)
+[01:22:11] [Server thread/INFO]: Yvisrogt joined the game
+[01:33:01] [Server thread/INFO]: Yvisrogt was slain by _ElGordito33_
+[01:35:36] [Server thread/INFO]: [Not Secure] <_ElGordito33_> .-.
+[01:37:33] [Server thread/INFO]: [Not Secure] <_ElGordito33_> QUE ALEGRIA
+[01:37:41] [Server thread/INFO]: [Not Secure] <Yvisrogt> JAJAAJAJAJAJAJAJAJAJAJASJASLAKSKDSKAJLJKA
+[01:37:52] [Server thread/INFO]: [Not Secure] <Rotnni> ay Dios mioi 🤣🤣🤣🤣🤣🤣
+[01:38:07] [Server thread/INFO]: [Not Secure] <Rotnni> 🤩🤩🤩🤩🤩🤩🤩🤩
+[01:38:10] [Server thread/INFO]: [Not Secure] <_ElGordito33_> QUE MAL QUE NO LO VAN A PONER
+[01:38:14] [Server thread/INFO]: [Not Secure] <_ElGordito33_> COÑO
+[01:39:03] [Server thread/INFO]: _ElGordito33_ has made the advancement [Cover Me with Diamonds]
+[01:42:29] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
+[01:42:29] [Server thread/INFO]: _ElGordito33_ left the game
+[01:44:02] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
+[01:44:02] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
+[01:44:02] [Server thread/INFO]: Yvisrogt left the game
+[01:44:08] [Server thread/INFO]: Yvisrogt[/127.117.190.220:41791] logged in with entity id 9360 at (-2992.5, 71.0, -227.5)
+[01:44:08] [Server thread/INFO]: Yvisrogt joined the game
