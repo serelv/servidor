@@ -700,6 +700,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-22 00:45:18 +0000",
+      "minecraft:skeleton": "2025-04-23 22:59:32 +0000",
       "minecraft:spider": "2025-04-21 17:41:56 +0000",
       "minecraft:zombie": "2025-04-21 16:26:12 +0000",
       "minecraft:creeper": "2025-04-21 18:28:51 +0000"
@@ -1183,6 +1184,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-23 22:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-23 22:59:34 +0000"
     },
     "done": true
   },
