@@ -706,6 +706,7 @@
       "minecraft:pillager": "2025-04-22 00:45:18 +0000",
       "minecraft:skeleton": "2025-04-23 22:59:32 +0000",
       "minecraft:piglin": "2025-04-24 00:39:42 +0000",
+      "minecraft:enderman": "2025-04-24 02:35:12 +0000",
       "minecraft:spider": "2025-04-21 17:41:56 +0000",
       "minecraft:zombie": "2025-04-21 16:26:12 +0000",
       "minecraft:creeper": "2025-04-21 18:28:51 +0000",
@@ -1383,6 +1384,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-04-24 01:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-24 02:37:56 +0000"
     },
     "done": true
   },
