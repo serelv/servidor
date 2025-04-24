@@ -701,9 +701,11 @@
     "criteria": {
       "minecraft:pillager": "2025-04-22 00:45:18 +0000",
       "minecraft:skeleton": "2025-04-23 22:59:32 +0000",
+      "minecraft:piglin": "2025-04-24 00:39:42 +0000",
       "minecraft:spider": "2025-04-21 17:41:56 +0000",
       "minecraft:zombie": "2025-04-21 16:26:12 +0000",
-      "minecraft:creeper": "2025-04-21 18:28:51 +0000"
+      "minecraft:creeper": "2025-04-21 18:28:51 +0000",
+      "minecraft:ghast": "2025-04-24 00:40:35 +0000"
     },
     "done": false
   },
@@ -1190,6 +1192,54 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-23 22:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-24 00:36:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-24 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-24 00:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-24 00:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-24 00:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-24 00:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 00:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-24 00:37:44 +0000"
     },
     "done": true
   },
