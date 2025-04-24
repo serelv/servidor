@@ -32,3 +32,9 @@
 [23:38:35] [Server thread/INFO]: [Rotnni: Removed every effect from Rotnni]
 [23:38:41] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
 [23:38:54] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
+[23:51:10] [Server thread/INFO]: Rotnni lost connection: Timed out
+[23:51:10] [Server thread/INFO]: Rotnni left the game
+[23:51:10] [Server thread/WARN]: handleDisconnection() called twice
+[23:51:33] [Server thread/INFO]: Rotnni[/127.87.55.163:50121] logged in with entity id 9603 at (-2982.813151140465, 71.0, -249.73357067089574)
+[23:51:33] [Server thread/INFO]: Rotnni joined the game
+[23:51:50] [Server thread/WARN]: Rotnni moved too quickly! -6.136378582421912,0.7518640014090607,-7.96180399188745
