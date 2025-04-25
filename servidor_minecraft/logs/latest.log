@@ -38,3 +38,5 @@
 [23:51:33] [Server thread/INFO]: Rotnni[/127.87.55.163:50121] logged in with entity id 9603 at (-2982.813151140465, 71.0, -249.73357067089574)
 [23:51:33] [Server thread/INFO]: Rotnni joined the game
 [23:51:50] [Server thread/WARN]: Rotnni moved too quickly! -6.136378582421912,0.7518640014090607,-7.96180399188745
+[23:58:23] [Server thread/INFO]: Villager cmk['Villager'/9634, l='ServerLevel[world]', x=-3066.57, y=66.00, z=-161.33] died, message: 'Villager was slain by Rotnni'
+[23:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-3049, y=66, z=-187} jd{x=-3010, y=72, z=-273}
