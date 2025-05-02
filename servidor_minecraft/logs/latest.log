@@ -72,3 +72,14 @@
 [23:34:38] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
 [23:34:54] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
 [23:34:54] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
+[23:43:44] [Async Chat Thread - #7/INFO]: [Not Secure] <Yvisrogt> Fin de semana largo
+[23:45:20] [Async Chat Thread - #8/INFO]: [Not Secure] <Yvisrogt> chuaaaaaaa
+[23:45:22] [Async Chat Thread - #8/INFO]: [Not Secure] <Yvisrogt> acuetate
+[23:46:11] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[23:46:11] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
+[23:46:11] [Server thread/INFO]: Rotnni left the game
+[23:46:20] [Server thread/INFO]: Yvisrogt has made the advancement [Not Today, Thank You]
+[23:46:37] [User Authenticator #2/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[23:46:43] [Server thread/INFO]: Rotnni joined the game
+[23:46:43] [Server thread/INFO]: Rotnni[/127.184.198.167:53623] logged in with entity id 5047 at ([world]-3007.020780764784, 71.0, -217.84330223152162)
+[23:49:54] [Server thread/WARN]: Rotnni moved too quickly! -0.0589799200233756,0.0,12.81511613695443
