@@ -480,8 +480,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-02 23:36:00 +0000",
       "minecraft:spider": "2025-04-21 17:42:05 +0000",
-      "minecraft:zombie": "2025-04-21 16:25:49 +0000"
+      "minecraft:zombie": "2025-04-21 16:25:49 +0000",
+      "minecraft:creeper": "2025-05-02 23:36:13 +0000"
     },
     "done": false
   },
@@ -992,7 +994,8 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:calico": "2025-04-22 02:01:08 +0000",
-      "minecraft:ragdoll": "2025-04-24 00:35:47 +0000"
+      "minecraft:ragdoll": "2025-04-24 00:35:47 +0000",
+      "minecraft:red": "2025-05-02 23:32:31 +0000"
     },
     "done": false
   },
