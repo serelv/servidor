@@ -343,3 +343,26 @@
 [02:34:39] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
 [02:34:39] [Server thread/INFO]: _ElGordito33_ left the game
 [02:34:42] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> cogiendose al gato
+[02:34:46] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> no puede ser
+[02:34:50] [Server thread/INFO]: Rotnni issued server command: /kick Yvisrogt
+[02:34:50] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
+[02:34:50] [Server thread/INFO]: Yvisrogt left the game
+[02:34:50] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
+[02:34:55] [User Authenticator #28/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
+[02:34:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@249cfa98[id=2b818fd0-39ff-3cb8-aaee-d61930192062,name=Yvisrogt,properties={}] lost connection: Disconnected
+[02:34:57] [User Authenticator #28/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
+[02:34:59] [Server thread/INFO]: _ElGordito33_ joined the game
+[02:34:59] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:36459] logged in with entity id 37079 at ([world]-2992.9853376461083, 71.5625, -226.74765415713017)
+[02:35:18] [User Authenticator #28/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
+[02:35:20] [Server thread/INFO]: Yvisrogt joined the game
+[02:35:20] [Server thread/INFO]: Yvisrogt[/127.108.65.82:50145] logged in with entity id 37130 at ([world]-2993.569902478214, 71.0, -219.90733846693104)
+[02:36:05] [Async Chat Thread - #36/INFO]: [Not Secure] <Yvisrogt> chicos
+[02:36:12] [Async Chat Thread - #36/INFO]: [Not Secure] <Yvisrogt> ya me tenego que ir
+[02:37:04] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
+[02:37:04] [Server thread/INFO]: Yvisrogt left the game
+[02:38:55] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator _ElGordito33_
+[02:38:55] [Server thread/INFO]: [Rotnni: Set _ElGordito33_'s game mode to Spectator Mode]
+[02:39:57] [Server thread/INFO]: Rotnni issued server command: /gamemode survival _ElGordito33_
+[02:39:57] [Server thread/INFO]: [Rotnni: Set _ElGordito33_'s game mode to Survival Mode]
+[02:42:44] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
+[02:42:44] [Server thread/INFO]: _ElGordito33_ left the game
