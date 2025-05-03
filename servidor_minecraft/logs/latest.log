@@ -301,3 +301,45 @@
 [02:22:19] [User Authenticator #27/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
 [02:22:20] [Server thread/INFO]: _ElGordito33_ joined the game
 [02:22:20] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:47429] logged in with entity id 35267 at ([world]-3003.6306349972097, 288.0, -185.30000001192093)
+[02:25:11] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
+[02:25:11] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
+[02:25:38] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ Rotnni
+[02:25:38] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to Rotnni]
+[02:26:01] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
+[02:26:01] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
+[02:26:47] [Server thread/INFO]: Rotnni issued server command: /effect give Rotnni minecraft:resistance infinite 255 true
+[02:26:47] [Server thread/INFO]: [Rotnni: Applied effect Resistance to Rotnni]
+[02:27:26] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ -3002 320 -183
+[02:27:26] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to -3001.500000, 320.000000, -182.500000]
+[02:27:32] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[02:27:54] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ -3002 320 -183
+[02:27:54] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to -3001.500000, 320.000000, -182.500000]
+[02:28:02] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[02:29:20] [Server thread/INFO]: Rotnni issued server command: /tp Rotnni _ElGordito33_
+[02:29:20] [Server thread/INFO]: [Rotnni: Teleported Rotnni to _ElGordito33_]
+[02:29:32] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ -3002 320 -183
+[02:29:32] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to -3001.500000, 320.000000, -182.500000]
+[02:29:40] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[02:30:05] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[02:30:22] [Server thread/INFO]: Rotnni issued server command: /tp -3002 320 -183
+[02:30:22] [Server thread/INFO]: [Rotnni: Teleported Rotnni to -3001.500000, 320.000000, -182.500000]
+[02:30:30] [Server thread/INFO]: Rotnni has made the advancement [Caves & Cliffs]
+[02:31:05] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[02:31:09] [Server thread/INFO]: Rotnni issued server command: /effect clear
+[02:31:09] [Server thread/INFO]: [Rotnni: Removed every effect from Rotnni]
+[02:31:38] [Server thread/INFO]: Rotnni issued server command: /tp Rotnni _ElGordito33_
+[02:31:38] [Server thread/INFO]: [Rotnni: Teleported Rotnni to _ElGordito33_]
+[02:31:57] [Server thread/INFO]: Rotnni issued server command: /tp -3002 320 -183
+[02:31:57] [Server thread/INFO]: [Rotnni: Teleported Rotnni to -3001.500000, 320.000000, -182.500000]
+[02:32:03] [Server thread/INFO]: Rotnni fell from a high place
+[02:33:08] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ -3002 320 -183
+[02:33:08] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to -3001.500000, 320.000000, -182.500000]
+[02:33:13] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> es una broma es una bromaaaaaaa
+[02:33:15] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[02:33:27] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> es una broma domingaaaaaaaaaaaaa
+[02:33:44] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[02:34:25] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> duerman
+[02:34:34] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> zoofilicos
+[02:34:39] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
+[02:34:39] [Server thread/INFO]: _ElGordito33_ left the game
+[02:34:42] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> cogiendose al gato
