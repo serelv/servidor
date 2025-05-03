@@ -91,3 +91,29 @@
 [01:00:46] [User Authenticator #12/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
 [01:00:48] [Server thread/INFO]: Rotnni joined the game
 [01:00:48] [Server thread/INFO]: Rotnni[/127.184.198.167:59171] logged in with entity id 21971 at ([world]-3037.1940112635193, 71.0, -238.27995305982466)
+[01:04:54] [Server thread/WARN]: Rotnni moved too quickly! 9.585733963652274,0.45546773958503195,-3.4656973448636563
+[01:04:58] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[01:04:58] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
+[01:04:58] [Server thread/INFO]: Rotnni left the game
+[01:05:04] [User Authenticator #13/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[01:05:08] [Server thread/INFO]: Rotnni joined the game
+[01:05:08] [Server thread/INFO]: Rotnni[/127.184.198.167:40003] logged in with entity id 22446 at ([world]-3006.6142472342826, 231.94487025128714, -179.9530867761324)
+[01:05:28] [Server thread/WARN]: Rotnni moved too quickly! 12.927604675080147,-1.252203340253729,-16.472106591669814
+[01:06:14] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
+[01:06:14] [Server thread/INFO]: _ElGordito33_ left the game
+[01:06:22] [User Authenticator #14/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
+[01:06:23] [Server thread/INFO]: _ElGordito33_ joined the game
+[01:06:23] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:48967] logged in with entity id 22567 at ([world]-3002.008162217547, 232.0, -184.463152871764)
+[01:07:25] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[01:08:27] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
+[01:08:27] [Server thread/INFO]: Yvisrogt left the game
+[01:09:17] [User Authenticator #15/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
+[01:09:18] [Server thread/INFO]: Yvisrogt joined the game
+[01:09:18] [Server thread/INFO]: Yvisrogt[/127.108.65.82:58475] logged in with entity id 22877 at ([world]-3006.5261337417946, 71.0, -246.17722247608228)
+[01:10:27] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[01:10:28] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[01:10:28] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
+[01:10:28] [Server thread/INFO]: Rotnni left the game
+[01:10:42] [User Authenticator #16/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[01:10:44] [Server thread/INFO]: Rotnni joined the game
+[01:10:44] [Server thread/INFO]: Rotnni[/127.184.198.167:52171] logged in with entity id 23023 at ([world]-3056.2568443735872, 72.11274447482063, -242.08404699275644)
