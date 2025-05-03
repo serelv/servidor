@@ -154,3 +154,13 @@
 [01:23:04] [Server thread/INFO]: Rotnni joined the game
 [01:23:04] [Server thread/INFO]: Rotnni[/127.184.198.167:58415] logged in with entity id 25373 at ([world]-3008.31208469663, 71.34173598704537, -236.49066733165273)
 [01:23:11] [Async Chat Thread - #20/INFO]: [Not Secure] <Rotnni> HOLA?
+[01:26:02] [Server thread/WARN]: Yvisrogt moved too quickly! 2.8414788040895473,-1.7531999805212024,10.237183819013666
+[01:26:49] [Server thread/INFO]: Yvisrogt fell from a high place
+[01:27:39] [Server thread/INFO]: Yvisrogt fell from a high place
+[01:28:17] [Server thread/INFO]: Yvisrogt fell from a high place
+[01:32:45] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[01:32:45] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
+[01:32:45] [Server thread/INFO]: Rotnni left the game
+[01:33:07] [User Authenticator #19/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[01:33:08] [Server thread/INFO]: Rotnni joined the game
+[01:33:08] [Server thread/INFO]: Rotnni[/127.184.198.167:33117] logged in with entity id 26743 at ([world]-3012.938200422311, 74.0361253090856, -214.8410592947136)
