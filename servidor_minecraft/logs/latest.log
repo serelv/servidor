@@ -6,3 +6,9 @@
 [00:03:50] [User Authenticator #5/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
 [00:03:52] [Server thread/INFO]: Yvisrogt joined the game
 [00:03:52] [Server thread/INFO]: Yvisrogt[/127.108.65.82:58885] logged in with entity id 9391 at ([world]-3166.6030670451314, 63.0, -264.3041867221634)
+[00:14:02] [Server thread/WARN]: Rotnni moved too quickly! 0.31935147913054607,-3.090061919226727,11.226117683029287
+[00:19:06] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
+[00:19:06] [Server thread/INFO]: Yvisrogt left the game
+[00:19:12] [User Authenticator #6/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
+[00:19:14] [Server thread/INFO]: Yvisrogt joined the game
+[00:19:14] [Server thread/INFO]: Yvisrogt[/127.108.65.82:51285] logged in with entity id 12517 at ([world]-3031.491826817488, 73.0, -291.54568547747465)
