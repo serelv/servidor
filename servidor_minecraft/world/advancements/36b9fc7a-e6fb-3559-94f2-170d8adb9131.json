@@ -810,6 +810,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-03 00:59:56 +0000",
       "minecraft:skeleton": "2025-04-22 00:39:10 +0000",
       "minecraft:creeper": "2025-04-24 02:18:45 +0000"
     },
@@ -890,6 +891,24 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-24 02:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-05-03 00:50:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-03 00:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-03 00:50:24 +0000"
     },
     "done": true
   },
