@@ -117,3 +117,40 @@
 [01:10:42] [User Authenticator #16/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
 [01:10:44] [Server thread/INFO]: Rotnni joined the game
 [01:10:44] [Server thread/INFO]: Rotnni[/127.184.198.167:52171] logged in with entity id 23023 at ([world]-3056.2568443735872, 72.11274447482063, -242.08404699275644)
+[01:15:30] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[01:17:25] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[01:17:44] [Server thread/INFO]: Rotnni issued server command: /kick _ElGordito33_
+[01:17:44] [Server thread/INFO]: _ElGordito33_ lost connection: Kicked by an operator
+[01:17:44] [Server thread/INFO]: _ElGordito33_ left the game
+[01:17:44] [Server thread/INFO]: [Rotnni: Kicked _ElGordito33_: Kicked by an operator]
+[01:17:49] [User Authenticator #17/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
+[01:17:50] [Server thread/INFO]: _ElGordito33_ joined the game
+[01:17:50] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:58049] logged in with entity id 24792 at ([world]-3003.8581405904183, 71.0, -189.44863601992057)
+[01:18:42] [Server thread/INFO]: _ElGordito33_ fell from a high place
+[01:20:01] [Server thread/INFO]: Rotnni issued server command: /effect give _ElGordito33_ minecraft:resistance infinite 255 true
+[01:20:01] [Server thread/INFO]: [Rotnni: Applied effect Resistance to _ElGordito33_]
+[01:20:11] [Server thread/INFO]: Rotnni issued server command: /effect give _ElGordito33_ minecraft:levitation infinite 55 true
+[01:20:11] [Server thread/INFO]: [Rotnni: Applied effect Levitation to _ElGordito33_]
+[01:20:13] [Server thread/INFO]: _ElGordito33_ has completed the challenge [Great View From Up Here]
+[01:20:27] [Server thread/INFO]: Rotnni issued server command: /effect clear _ElGordito33_ minecraft:levitation
+[01:20:27] [Server thread/INFO]: [Rotnni: Removed effect Levitation from _ElGordito33_]
+[01:20:47] [Server thread/INFO]: Rotnni issued server command: /effect clear _ElGordito33_
+[01:20:47] [Server thread/INFO]: [Rotnni: Removed every effect from _ElGordito33_]
+[01:21:01] [Server thread/INFO]: Rotnni issued server command: /effect give Yvisrogt minecraft:resistance infinite 255 true
+[01:21:01] [Server thread/INFO]: [Rotnni: Applied effect Resistance to Yvisrogt]
+[01:21:08] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
+[01:21:08] [Server thread/INFO]: _ElGordito33_ left the game
+[01:21:15] [Server thread/INFO]: Rotnni issued server command: /effect give Yvisrogt minecraft:levitation infinite 75 true
+[01:21:15] [Server thread/INFO]: [Rotnni: Applied effect Levitation to Yvisrogt]
+[01:21:16] [Server thread/INFO]: Yvisrogt has completed the challenge [Great View From Up Here]
+[01:21:25] [Server thread/INFO]: Rotnni issued server command: /effect clear Yvisrogt minecraft:levitation
+[01:21:25] [Server thread/INFO]: [Rotnni: Removed effect Levitation from Yvisrogt]
+[01:21:46] [Server thread/INFO]: Rotnni issued server command: /effect clear Yvisrogt
+[01:21:46] [Server thread/INFO]: [Rotnni: Removed every effect from Yvisrogt]
+[01:22:43] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[01:22:43] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
+[01:22:43] [Server thread/INFO]: Rotnni left the game
+[01:23:01] [User Authenticator #18/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[01:23:04] [Server thread/INFO]: Rotnni joined the game
+[01:23:04] [Server thread/INFO]: Rotnni[/127.184.198.167:58415] logged in with entity id 25373 at ([world]-3008.31208469663, 71.34173598704537, -236.49066733165273)
+[01:23:11] [Async Chat Thread - #20/INFO]: [Not Secure] <Rotnni> HOLA?
