@@ -1653,9 +1653,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-03 02:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/fall_from_world_height": {
     "criteria": {
       "fall_from_world_height": "2025-05-03 02:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-03 02:45:26 +0000"
     },
     "done": true
   },
