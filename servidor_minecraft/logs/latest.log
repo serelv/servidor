@@ -1,368 +1,40 @@
-[00:01:45] [Server thread/INFO]: Rotnni lost connection: Timed out
-[00:01:45] [Server thread/INFO]: Rotnni left the game
-[00:01:53] [User Authenticator #4/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[00:01:55] [Server thread/INFO]: Rotnni joined the game
-[00:01:55] [Server thread/INFO]: Rotnni[/127.184.198.167:42693] logged in with entity id 7741 at ([world]-2943.3487182319204, 71.0, -190.80761523453003)
-[00:03:50] [User Authenticator #5/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[00:03:52] [Server thread/INFO]: Yvisrogt joined the game
-[00:03:52] [Server thread/INFO]: Yvisrogt[/127.108.65.82:58885] logged in with entity id 9391 at ([world]-3166.6030670451314, 63.0, -264.3041867221634)
-[00:14:02] [Server thread/WARN]: Rotnni moved too quickly! 0.31935147913054607,-3.090061919226727,11.226117683029287
-[00:19:06] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
-[00:19:06] [Server thread/INFO]: Yvisrogt left the game
-[00:19:12] [User Authenticator #6/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[00:19:14] [Server thread/INFO]: Yvisrogt joined the game
-[00:19:14] [Server thread/INFO]: Yvisrogt[/127.108.65.82:51285] logged in with entity id 12517 at ([world]-3031.491826817488, 73.0, -291.54568547747465)
-[00:29:23] [Server thread/INFO]: Rotnni lost connection: Disconnected
-[00:29:23] [Server thread/INFO]: Rotnni left the game
-[00:31:00] [User Authenticator #7/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[00:31:02] [Server thread/INFO]: Rotnni joined the game
-[00:31:02] [Server thread/INFO]: Rotnni[/127.184.198.167:40753] logged in with entity id 15170 at ([world]-3042.6504575032795, 71.0, -233.6894840107052)
-[00:33:11] [Server thread/INFO]: Rotnni lost connection: Disconnected
-[00:33:11] [Server thread/INFO]: Rotnni left the game
-[00:33:15] [User Authenticator #8/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[00:33:16] [Server thread/INFO]: Rotnni joined the game
-[00:33:16] [Server thread/INFO]: Rotnni[/127.184.198.167:39203] logged in with entity id 15454 at ([world]-2962.381343047505, 73.0, -233.8200153616803)
-[00:33:21] [Async Chat Thread - #10/INFO]: [Not Secure] <Rotnni> "muere"
-[00:33:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Yvisrogt> that daddys home
-[00:34:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Yvisrogt> yo si le guste a una chica
-[00:36:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Yvisrogt> tu una vez dijiste que yo no lw gusto a nadie
-[00:39:23] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
-[00:39:23] [Server thread/INFO]: Yvisrogt left the game
-[00:41:32] [User Authenticator #9/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[00:41:35] [Server thread/INFO]: Yvisrogt joined the game
-[00:41:35] [Server thread/INFO]: Yvisrogt[/127.108.65.82:41359] logged in with entity id 16755 at ([world]-2992.489792700329, 71.0, -233.28368494621628)
-[00:41:45] [Async Chat Thread - #14/INFO]: [Not Secure] <Yvisrogt> me dio perezA
-[00:41:49] [Async Chat Thread - #14/INFO]: [Not Secure] <Rotnni> ok
-[00:43:47] [User Authenticator #10/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[00:43:49] [Server thread/INFO]: _ElGordito33_ joined the game
-[00:43:49] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:58987] logged in with entity id 17094 at ([world]-2996.934503009295, 71.0, -226.79348012164297)
-[00:44:03] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> uuuuf
-[00:44:08] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> Hostias
-[00:44:16] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> FINALLY
-[00:44:20] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> Hola mis hermanos
-[00:44:23] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> kendra pagame
-[00:44:25] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> hola hola
-[00:44:28] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> Hola rot
-[00:44:35] [Async Chat Thread - #16/INFO]: [Not Secure] <Yvisrogt> ufffffffffffffffffff
-[00:44:35] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> holas
-[00:44:44] [Async Chat Thread - #16/INFO]: [Not Secure] <Yvisrogt> madissons here
-[00:44:53] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> No me digas
-[00:45:03] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> pensaba que yo no estaba vale
-[00:45:08] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> gracias por avisar
-[00:45:22] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> wtf?
-[00:46:21] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> creo que kailer esta jugando
-[00:46:29] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> Como aji
-[00:46:34] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> No me digas
-[00:46:39] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> de verdad
-[00:46:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> no se en verdad
-[00:46:45] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> .-.
-[00:47:24] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> ROT
-[00:47:27] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> dime
-[00:47:41] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> en verda me a ido muy bien dede que actualize la laptop vale
-[00:47:44] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> Waos
-[00:47:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> uuuuf
-[00:47:49] [Async Chat Thread - #16/INFO]: [Not Secure] <_ElGordito33_> que bien me va vale
-[00:47:49] [Async Chat Thread - #16/INFO]: [Not Secure] <Rotnni> ahora si
-[00:47:52] [Async Chat Thread - #16/INFO]: [Not Secure] <Yvisrogt> llamen por el grupo
-[00:47:59] [Async Chat Thread - #17/INFO]: [Not Secure] <Yvisrogt> porfaplis
-[00:47:59] [Async Chat Thread - #17/INFO]: [Not Secure] <_ElGordito33_> por cual grupo?
-[00:48:07] [Async Chat Thread - #17/INFO]: [Not Secure] <Yvisrogt> por el nuestro
-[00:48:48] [Async Chat Thread - #17/INFO]: [Not Secure] <_ElGordito33_> pero
-[00:48:52] [Async Chat Thread - #17/INFO]: [Not Secure] <_ElGordito33_> Por cual
-[00:48:54] [Async Chat Thread - #17/INFO]: [Not Secure] <Yvisrogt> pero
-[00:49:01] [Async Chat Thread - #17/INFO]: [Not Secure] <_ElGordito33_> Por ig o por discord?
-[00:49:06] [Async Chat Thread - #17/INFO]: [Not Secure] <Yvisrogt> aaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhhh
-[00:49:09] [Async Chat Thread - #17/INFO]: [Not Secure] <Yvisrogt> no se
-[00:49:13] [Async Chat Thread - #17/INFO]: [Not Secure] <_ElGordito33_> .-.
-[00:49:22] [Async Chat Thread - #17/INFO]: [Not Secure] <Yvisrogt> por donde sea mas conveniente
-[00:49:31] [Async Chat Thread - #17/INFO]: [Not Secure] <_ElGordito33_> pREGUNTALE A ROT
-[00:49:58] [Async Chat Thread - #17/INFO]: [Not Secure] <Yvisrogt> el dice que por discord
-[00:50:04] [Async Chat Thread - #17/INFO]: [Not Secure] <_ElGordito33_> ok
-[00:50:24] [Server thread/INFO]: _ElGordito33_ has made the advancement [We Need to Go Deeper]
-[00:51:02] [Async Chat Thread - #17/INFO]: [Not Secure] <_ElGordito33_> dame un segundo que habro discord
-[00:51:05] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[00:51:05] [Server thread/INFO]: _ElGordito33_ left the game
-[00:53:40] [Server thread/INFO]: Rotnni lost connection: Disconnected
-[00:53:40] [Server thread/INFO]: Rotnni left the game
-[00:56:31] [User Authenticator #11/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[00:56:32] [Server thread/INFO]: _ElGordito33_ joined the game
-[00:56:32] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:57019] logged in with entity id 20745 at ([world]-3017.365918315541, 72.0, -281.1094813015053)
-[00:56:39] [Async Chat Thread - #18/INFO]: [Not Secure] <_ElGordito33_> rot
-[01:00:46] [User Authenticator #12/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[01:00:48] [Server thread/INFO]: Rotnni joined the game
-[01:00:48] [Server thread/INFO]: Rotnni[/127.184.198.167:59171] logged in with entity id 21971 at ([world]-3037.1940112635193, 71.0, -238.27995305982466)
-[01:04:54] [Server thread/WARN]: Rotnni moved too quickly! 9.585733963652274,0.45546773958503195,-3.4656973448636563
-[01:04:58] [Server thread/WARN]: Rotnni was kicked for floating too long!
-[01:04:58] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
-[01:04:58] [Server thread/INFO]: Rotnni left the game
-[01:05:04] [User Authenticator #13/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[01:05:08] [Server thread/INFO]: Rotnni joined the game
-[01:05:08] [Server thread/INFO]: Rotnni[/127.184.198.167:40003] logged in with entity id 22446 at ([world]-3006.6142472342826, 231.94487025128714, -179.9530867761324)
-[01:05:28] [Server thread/WARN]: Rotnni moved too quickly! 12.927604675080147,-1.252203340253729,-16.472106591669814
-[01:06:14] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[01:06:14] [Server thread/INFO]: _ElGordito33_ left the game
-[01:06:22] [User Authenticator #14/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[01:06:23] [Server thread/INFO]: _ElGordito33_ joined the game
-[01:06:23] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:48967] logged in with entity id 22567 at ([world]-3002.008162217547, 232.0, -184.463152871764)
-[01:07:25] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[01:08:27] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
-[01:08:27] [Server thread/INFO]: Yvisrogt left the game
-[01:09:17] [User Authenticator #15/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[01:09:18] [Server thread/INFO]: Yvisrogt joined the game
-[01:09:18] [Server thread/INFO]: Yvisrogt[/127.108.65.82:58475] logged in with entity id 22877 at ([world]-3006.5261337417946, 71.0, -246.17722247608228)
-[01:10:27] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[01:10:28] [Server thread/WARN]: Rotnni was kicked for floating too long!
-[01:10:28] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
-[01:10:28] [Server thread/INFO]: Rotnni left the game
-[01:10:42] [User Authenticator #16/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[01:10:44] [Server thread/INFO]: Rotnni joined the game
-[01:10:44] [Server thread/INFO]: Rotnni[/127.184.198.167:52171] logged in with entity id 23023 at ([world]-3056.2568443735872, 72.11274447482063, -242.08404699275644)
-[01:15:30] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[01:17:25] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[01:17:44] [Server thread/INFO]: Rotnni issued server command: /kick _ElGordito33_
-[01:17:44] [Server thread/INFO]: _ElGordito33_ lost connection: Kicked by an operator
-[01:17:44] [Server thread/INFO]: _ElGordito33_ left the game
-[01:17:44] [Server thread/INFO]: [Rotnni: Kicked _ElGordito33_: Kicked by an operator]
-[01:17:49] [User Authenticator #17/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[01:17:50] [Server thread/INFO]: _ElGordito33_ joined the game
-[01:17:50] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:58049] logged in with entity id 24792 at ([world]-3003.8581405904183, 71.0, -189.44863601992057)
-[01:18:42] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[01:20:01] [Server thread/INFO]: Rotnni issued server command: /effect give _ElGordito33_ minecraft:resistance infinite 255 true
-[01:20:01] [Server thread/INFO]: [Rotnni: Applied effect Resistance to _ElGordito33_]
-[01:20:11] [Server thread/INFO]: Rotnni issued server command: /effect give _ElGordito33_ minecraft:levitation infinite 55 true
-[01:20:11] [Server thread/INFO]: [Rotnni: Applied effect Levitation to _ElGordito33_]
-[01:20:13] [Server thread/INFO]: _ElGordito33_ has completed the challenge [Great View From Up Here]
-[01:20:27] [Server thread/INFO]: Rotnni issued server command: /effect clear _ElGordito33_ minecraft:levitation
-[01:20:27] [Server thread/INFO]: [Rotnni: Removed effect Levitation from _ElGordito33_]
-[01:20:47] [Server thread/INFO]: Rotnni issued server command: /effect clear _ElGordito33_
-[01:20:47] [Server thread/INFO]: [Rotnni: Removed every effect from _ElGordito33_]
-[01:21:01] [Server thread/INFO]: Rotnni issued server command: /effect give Yvisrogt minecraft:resistance infinite 255 true
-[01:21:01] [Server thread/INFO]: [Rotnni: Applied effect Resistance to Yvisrogt]
-[01:21:08] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[01:21:08] [Server thread/INFO]: _ElGordito33_ left the game
-[01:21:15] [Server thread/INFO]: Rotnni issued server command: /effect give Yvisrogt minecraft:levitation infinite 75 true
-[01:21:15] [Server thread/INFO]: [Rotnni: Applied effect Levitation to Yvisrogt]
-[01:21:16] [Server thread/INFO]: Yvisrogt has completed the challenge [Great View From Up Here]
-[01:21:25] [Server thread/INFO]: Rotnni issued server command: /effect clear Yvisrogt minecraft:levitation
-[01:21:25] [Server thread/INFO]: [Rotnni: Removed effect Levitation from Yvisrogt]
-[01:21:46] [Server thread/INFO]: Rotnni issued server command: /effect clear Yvisrogt
-[01:21:46] [Server thread/INFO]: [Rotnni: Removed every effect from Yvisrogt]
-[01:22:43] [Server thread/WARN]: Rotnni was kicked for floating too long!
-[01:22:43] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
-[01:22:43] [Server thread/INFO]: Rotnni left the game
-[01:23:01] [User Authenticator #18/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[01:23:04] [Server thread/INFO]: Rotnni joined the game
-[01:23:04] [Server thread/INFO]: Rotnni[/127.184.198.167:58415] logged in with entity id 25373 at ([world]-3008.31208469663, 71.34173598704537, -236.49066733165273)
-[01:23:11] [Async Chat Thread - #20/INFO]: [Not Secure] <Rotnni> HOLA?
-[01:26:02] [Server thread/WARN]: Yvisrogt moved too quickly! 2.8414788040895473,-1.7531999805212024,10.237183819013666
-[01:26:49] [Server thread/INFO]: Yvisrogt fell from a high place
-[01:27:39] [Server thread/INFO]: Yvisrogt fell from a high place
-[01:28:17] [Server thread/INFO]: Yvisrogt fell from a high place
-[01:32:45] [Server thread/WARN]: Rotnni was kicked for floating too long!
-[01:32:45] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
-[01:32:45] [Server thread/INFO]: Rotnni left the game
-[01:33:07] [User Authenticator #19/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[01:33:08] [Server thread/INFO]: Rotnni joined the game
-[01:33:08] [Server thread/INFO]: Rotnni[/127.184.198.167:33117] logged in with entity id 26743 at ([world]-3012.938200422311, 74.0361253090856, -214.8410592947136)
-[01:41:45] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
-[01:41:45] [Server thread/INFO]: Yvisrogt left the game
-[01:43:22] [User Authenticator #20/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[01:43:23] [Server thread/INFO]: Yvisrogt joined the game
-[01:43:23] [Server thread/INFO]: Yvisrogt[/127.108.65.82:38747] logged in with entity id 29392 at ([world]-3139.545275929418, 67.0, -246.2372750409869)
-[01:48:05] [Server thread/INFO]: Rotnni issued server command: /tp Yvisrogt Rotnni
-[01:48:05] [Server thread/INFO]: [Rotnni: Teleported Yvisrogt to Rotnni]
-[01:48:55] [Async Chat Thread - #22/INFO]: [Not Secure] <Yvisrogt> me escuchas????
-[01:48:59] [Async Chat Thread - #22/INFO]: [Not Secure] <Rotnni> no
-[01:49:02] [Async Chat Thread - #22/INFO]: [Not Secure] <Rotnni> damn
-[01:49:16] [Async Chat Thread - #23/INFO]: [Not Secure] <Yvisrogt> habla a ver
-[01:49:27] [Async Chat Thread - #23/INFO]: [Not Secure] <Yvisrogt> a no vale
-[01:49:40] [Async Chat Thread - #23/INFO]: [Not Secure] <Yvisrogt> se me apago el celular
-[01:49:42] [Async Chat Thread - #23/INFO]: [Not Secure] <Rotnni> me escuchaste?
-[01:49:47] [Async Chat Thread - #23/INFO]: [Not Secure] <Rotnni> aaa ok
-[01:49:51] [Async Chat Thread - #23/INFO]: [Not Secure] <Yvisrogt> pera
-[01:49:54] [Async Chat Thread - #23/INFO]: [Not Secure] <Rotnni> pero
-[01:50:00] [Async Chat Thread - #23/INFO]: [Not Secure] <Rotnni> tu sigue en la llamada
-[01:52:12] [User Authenticator #21/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[01:52:13] [Server thread/INFO]: _ElGordito33_ joined the game
-[01:52:13] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:54297] logged in with entity id 30830 at ([world]-3001.017209668534, 71.0, -180.01292531104943)
-[01:52:27] [Async Chat Thread - #25/INFO]: [Not Secure] <Yvisrogt> Brrrrrrrrrrrrrrrrrrrrrrr
-[01:52:33] [Async Chat Thread - #25/INFO]: [Not Secure] <Yvisrogt> bad bunny yeah yeah
-[01:52:45] [Async Chat Thread - #25/INFO]: [Not Secure] <Yvisrogt> sera un bug
-[01:52:50] [Async Chat Thread - #25/INFO]: [Not Secure] <_ElGordito33_> Que fue vale?
-[01:52:54] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> porque a mi se me apago por completo
-[01:52:57] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> TE DOBLO?
-[01:53:02] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> que a mi se me apago el celular
-[01:53:06] [Async Chat Thread - #24/INFO]: [Not Secure] <Rotnni> alright
-[01:53:07] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> brrrrrrrrrrrrrrrrrrrrrrrrr
-[01:53:14] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> Unase coño
-[01:53:24] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> debi tirar mas fotos
-[01:53:28] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> de cuando
-[01:53:30] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> te tuve
-[01:53:40] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> debi darte mas besos y abrazos
-[01:53:44] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> las vecs
-[01:53:46] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> que pude
-[01:53:48] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> uuuuuuuuuu
-[01:53:50] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> ey
-[01:53:52] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> SACALA
-[01:53:59] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> SACALAA
-[01:54:01] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> yeah yeah yeah yeah yeah
-[01:54:04] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
-[01:54:04] [Server thread/INFO]: Yvisrogt left the game
-[01:54:06] [User Authenticator #22/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[01:54:07] [Server thread/INFO]: Yvisrogt joined the game
-[01:54:07] [Server thread/INFO]: Yvisrogt[/127.108.65.82:51335] logged in with entity id 31098 at ([world]-3026.639618643654, 71.0, -242.6460139953073)
-[01:54:21] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> titi me pregunto
-[01:54:25] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> Vale
-[01:54:29] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> deja el relajo
-[01:54:33] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> brrrrrrrrrrrr
-[01:54:38] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> ok, perdon
-[01:54:55] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> duerman
-[01:55:30] [Async Chat Thread - #24/INFO]: [Not Secure] <Yvisrogt> afk, me llaman
-[01:55:32] [Async Chat Thread - #24/INFO]: [Not Secure] <Rotnni> ok
-[01:55:38] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> Bro?
-[01:55:53] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> Pero si estaras AFK como te llamaremos
-[01:55:58] [Async Chat Thread - #24/INFO]: [Not Secure] <_ElGordito33_> coño
-[01:57:19] [Async Chat Thread - #26/INFO]: [Not Secure] <Yvisrogt> im here
-[01:57:26] [Async Chat Thread - #26/INFO]: [Not Secure] <Rotnni> you´re here
-[01:57:54] [Async Chat Thread - #26/INFO]: [Not Secure] <Yvisrogt> yeah yeah
-[01:58:34] [Server thread/INFO]: Rotnni issued server command: /kick Yvisrogt
-[01:58:34] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
-[01:58:34] [Server thread/INFO]: Yvisrogt left the game
-[01:58:34] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
-[01:58:38] [User Authenticator #23/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[01:58:39] [Server thread/INFO]: Yvisrogt joined the game
-[01:58:39] [Server thread/INFO]: Yvisrogt[/127.108.65.82:43493] logged in with entity id 31558 at ([world]-2997.482824252621, 71.0, -188.5719062062709)
-[01:58:48] [Server thread/INFO]: _ElGordito33_ was impaled on a stalagmite
-[01:59:13] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[01:59:31] [Server thread/INFO]: Rotnni was impaled on a stalagmite
-[02:04:53] [Async Chat Thread - #28/INFO]: [Not Secure] <Yvisrogt> weyyyyyyyyyyyyyyy
-[02:04:57] [Async Chat Thread - #28/INFO]: [Not Secure] <Yvisrogt> lasb otas
-[02:05:00] [Async Chat Thread - #28/INFO]: [Not Secure] <Yvisrogt> osn mias
-[02:05:05] [Async Chat Thread - #28/INFO]: [Not Secure] <Yvisrogt> las botas
-[02:05:08] [Async Chat Thread - #28/INFO]: [Not Secure] <Yvisrogt> son misa
-[02:05:10] [Async Chat Thread - #28/INFO]: [Not Secure] <Yvisrogt> mas
-[02:05:13] [Async Chat Thread - #28/INFO]: [Not Secure] <Yvisrogt> mias
-[02:05:15] [Async Chat Thread - #28/INFO]: [Not Secure] <Yvisrogt> masi
-[02:07:15] [Server thread/INFO]: Rotnni issued server command: /gamemode creative
-[02:07:15] [Server thread/INFO]: [Rotnni: Set own game mode to Creative Mode]
-[02:07:21] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_
-[02:07:21] [Server thread/INFO]: [Rotnni: Teleported Rotnni to _ElGordito33_]
-[02:09:20] [Async Chat Thread - #30/INFO]: [Not Secure] <Yvisrogt> go to sleep you guys
-[02:09:23] [Async Chat Thread - #30/INFO]: [Not Secure] <_ElGordito33_> no
-[02:09:28] [Async Chat Thread - #30/INFO]: [Not Secure] <Yvisrogt> ooh oh
-[02:09:32] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ r
-[02:09:39] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ Rotnni
-[02:09:39] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to Rotnni]
-[02:09:44] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
-[02:09:44] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
-[02:09:57] [Server thread/INFO]: Rotnni issued server command: /kick _ElGordito33_
-[02:09:57] [Server thread/INFO]: _ElGordito33_ lost connection: Kicked by an operator
-[02:09:57] [Server thread/INFO]: _ElGordito33_ left the game
-[02:09:57] [Server thread/INFO]: [Rotnni: Kicked _ElGordito33_: Kicked by an operator]
-[02:10:03] [User Authenticator #24/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[02:10:04] [Server thread/INFO]: _ElGordito33_ joined the game
-[02:10:04] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:46461] logged in with entity id 32786 at ([world]-3012.7755572262686, 72.33088254276429, -265.19035262157036)
-[02:11:04] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:11:17] [Server thread/WARN]: Rotnni moved too quickly! 8.268026557338999,-1.2491870787446828,10.61621750281148
-[02:13:54] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:17:08] [Server thread/INFO]: Rotnni issued server command: /kick _ElGordito33_
-[02:17:08] [Server thread/INFO]: _ElGordito33_ lost connection: Kicked by an operator
-[02:17:08] [Server thread/INFO]: _ElGordito33_ left the game
-[02:17:08] [Server thread/INFO]: [Rotnni: Kicked _ElGordito33_: Kicked by an operator]
-[02:17:11] [Server thread/INFO]: Rotnni issued server command: /kick Yvisrogt
-[02:17:11] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
-[02:17:11] [Server thread/INFO]: Yvisrogt left the game
-[02:17:11] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
-[02:17:12] [User Authenticator #25/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[02:17:13] [Server thread/INFO]: _ElGordito33_ joined the game
-[02:17:13] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:48265] logged in with entity id 34234 at ([world]-3002.5516004963365, 159.83999997377396, -183.26058965747325)
-[02:17:16] [User Authenticator #25/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[02:17:18] [Server thread/INFO]: Yvisrogt joined the game
-[02:17:18] [Server thread/INFO]: Yvisrogt[/127.108.65.82:41771] logged in with entity id 34249 at ([world]-3154.615958224804, 63.0, -296.37240744864647)
-[02:19:05] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:20:20] [Server thread/WARN]: Rotnni was kicked for floating too long!
-[02:20:20] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
-[02:20:20] [Server thread/INFO]: Rotnni left the game
-[02:20:30] [User Authenticator #26/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[02:20:32] [Server thread/INFO]: Rotnni joined the game
-[02:20:32] [Server thread/INFO]: Rotnni[/127.184.198.167:44691] logged in with entity id 35043 at ([world]-3019.037479360926, 231.86179243348067, -172.5670246522973)
-[02:20:39] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
-[02:20:39] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
-[02:20:51] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
-[02:20:52] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
-[02:21:39] [Async Chat Thread - #32/INFO]: [Not Secure] <Yvisrogt> yeah yeah yaeh yaeah ya ehehueuagduagdujgwdfjawlef
-[02:21:51] [Async Chat Thread - #32/INFO]: [Not Secure] <Yvisrogt> yayaya
-[02:22:09] [Async Chat Thread - #32/INFO]: [Not Secure] <Yvisrogt> raise your gyattgyatt gyattttttttttt
-[02:22:16] [Server thread/INFO]: Rotnni issued server command: /kick _ElGordito33_
-[02:22:16] [Server thread/INFO]: _ElGordito33_ lost connection: Kicked by an operator
-[02:22:16] [Server thread/INFO]: _ElGordito33_ left the game
-[02:22:16] [Server thread/INFO]: [Rotnni: Kicked _ElGordito33_: Kicked by an operator]
-[02:22:16] [Async Chat Thread - #32/INFO]: [Not Secure] <Yvisrogt> ay duidowpcvhojqñem4iotncgfm`4bcvqw
-[02:22:19] [User Authenticator #27/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[02:22:20] [Server thread/INFO]: _ElGordito33_ joined the game
-[02:22:20] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:47429] logged in with entity id 35267 at ([world]-3003.6306349972097, 288.0, -185.30000001192093)
-[02:25:11] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
-[02:25:11] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
-[02:25:38] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ Rotnni
-[02:25:38] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to Rotnni]
-[02:26:01] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
-[02:26:01] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
-[02:26:47] [Server thread/INFO]: Rotnni issued server command: /effect give Rotnni minecraft:resistance infinite 255 true
-[02:26:47] [Server thread/INFO]: [Rotnni: Applied effect Resistance to Rotnni]
-[02:27:26] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ -3002 320 -183
-[02:27:26] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to -3001.500000, 320.000000, -182.500000]
-[02:27:32] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:27:54] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ -3002 320 -183
-[02:27:54] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to -3001.500000, 320.000000, -182.500000]
-[02:28:02] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:29:20] [Server thread/INFO]: Rotnni issued server command: /tp Rotnni _ElGordito33_
-[02:29:20] [Server thread/INFO]: [Rotnni: Teleported Rotnni to _ElGordito33_]
-[02:29:32] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ -3002 320 -183
-[02:29:32] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to -3001.500000, 320.000000, -182.500000]
-[02:29:40] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:30:05] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:30:22] [Server thread/INFO]: Rotnni issued server command: /tp -3002 320 -183
-[02:30:22] [Server thread/INFO]: [Rotnni: Teleported Rotnni to -3001.500000, 320.000000, -182.500000]
-[02:30:30] [Server thread/INFO]: Rotnni has made the advancement [Caves & Cliffs]
-[02:31:05] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:31:09] [Server thread/INFO]: Rotnni issued server command: /effect clear
-[02:31:09] [Server thread/INFO]: [Rotnni: Removed every effect from Rotnni]
-[02:31:38] [Server thread/INFO]: Rotnni issued server command: /tp Rotnni _ElGordito33_
-[02:31:38] [Server thread/INFO]: [Rotnni: Teleported Rotnni to _ElGordito33_]
-[02:31:57] [Server thread/INFO]: Rotnni issued server command: /tp -3002 320 -183
-[02:31:57] [Server thread/INFO]: [Rotnni: Teleported Rotnni to -3001.500000, 320.000000, -182.500000]
-[02:32:03] [Server thread/INFO]: Rotnni fell from a high place
-[02:33:08] [Server thread/INFO]: Rotnni issued server command: /tp _ElGordito33_ -3002 320 -183
-[02:33:08] [Server thread/INFO]: [Rotnni: Teleported _ElGordito33_ to -3001.500000, 320.000000, -182.500000]
-[02:33:13] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> es una broma es una bromaaaaaaa
-[02:33:15] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:33:27] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> es una broma domingaaaaaaaaaaaaa
-[02:33:44] [Server thread/INFO]: _ElGordito33_ fell from a high place
-[02:34:25] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> duerman
-[02:34:34] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> zoofilicos
-[02:34:39] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[02:34:39] [Server thread/INFO]: _ElGordito33_ left the game
-[02:34:42] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> cogiendose al gato
-[02:34:46] [Async Chat Thread - #34/INFO]: [Not Secure] <Yvisrogt> no puede ser
-[02:34:50] [Server thread/INFO]: Rotnni issued server command: /kick Yvisrogt
-[02:34:50] [Server thread/INFO]: Yvisrogt lost connection: Kicked by an operator
-[02:34:50] [Server thread/INFO]: Yvisrogt left the game
-[02:34:50] [Server thread/INFO]: [Rotnni: Kicked Yvisrogt: Kicked by an operator]
-[02:34:55] [User Authenticator #28/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[02:34:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@249cfa98[id=2b818fd0-39ff-3cb8-aaee-d61930192062,name=Yvisrogt,properties={}] lost connection: Disconnected
-[02:34:57] [User Authenticator #28/INFO]: UUID of player _ElGordito33_ is 36b9fc7a-e6fb-3559-94f2-170d8adb9131
-[02:34:59] [Server thread/INFO]: _ElGordito33_ joined the game
-[02:34:59] [Server thread/INFO]: _ElGordito33_[/127.137.33.176:36459] logged in with entity id 37079 at ([world]-2992.9853376461083, 71.5625, -226.74765415713017)
-[02:35:18] [User Authenticator #28/INFO]: UUID of player Yvisrogt is 2b818fd0-39ff-3cb8-aaee-d61930192062
-[02:35:20] [Server thread/INFO]: Yvisrogt joined the game
-[02:35:20] [Server thread/INFO]: Yvisrogt[/127.108.65.82:50145] logged in with entity id 37130 at ([world]-2993.569902478214, 71.0, -219.90733846693104)
-[02:36:05] [Async Chat Thread - #36/INFO]: [Not Secure] <Yvisrogt> chicos
-[02:36:12] [Async Chat Thread - #36/INFO]: [Not Secure] <Yvisrogt> ya me tenego que ir
-[02:37:04] [Server thread/INFO]: Yvisrogt lost connection: Disconnected
-[02:37:04] [Server thread/INFO]: Yvisrogt left the game
-[02:38:55] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator _ElGordito33_
-[02:38:55] [Server thread/INFO]: [Rotnni: Set _ElGordito33_'s game mode to Spectator Mode]
-[02:39:57] [Server thread/INFO]: Rotnni issued server command: /gamemode survival _ElGordito33_
-[02:39:57] [Server thread/INFO]: [Rotnni: Set _ElGordito33_'s game mode to Survival Mode]
-[02:42:44] [Server thread/INFO]: _ElGordito33_ lost connection: Disconnected
-[02:42:44] [Server thread/INFO]: _ElGordito33_ left the game
+[11:34:43] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[11:34:43] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[11:34:43] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[11:34:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[11:34:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:34:51] [ServerMain/INFO]: Loaded 1290 recipes
+[11:34:51] [ServerMain/INFO]: Loaded 1399 advancements
+[11:34:52] [Server thread/INFO]: Starting minecraft server version 1.21
+[11:34:52] [Server thread/INFO]: Loading properties
+[11:34:52] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[11:34:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[11:34:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:34:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:34:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[11:34:54] [Server thread/INFO]: Default game type: SURVIVAL
+[11:34:54] [Server thread/INFO]: Generating keypair
+[11:34:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:34:54] [Server thread/INFO]: Using epoll channel type
+[11:34:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:34:54] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[11:34:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:34:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:34:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:34:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:34:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:34:54] [Server thread/INFO]: Preparing level "world"
+[11:34:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:34:56] [Server thread/INFO]: Time elapsed: 1738 ms
+[11:34:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:34:56] [Server thread/INFO]: Time elapsed: 251 ms
+[11:34:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:34:56] [Server thread/INFO]: Time elapsed: 102 ms
+[11:34:57] [Server thread/INFO]: [spark] Starting background profiler...
+[11:34:57] [Server thread/INFO]: Done preparing level "world" (3.108s)
+[11:34:57] [Server thread/INFO]: Running delayed init tasks
+[11:34:57] [Server thread/INFO]: Done (15.502s)! For help, type "help"
+[11:34:57] [Server thread/INFO]: Timings Reset
+[11:35:06] [User Authenticator #0/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[11:35:08] [Server thread/INFO]: Rotnni joined the game
+[11:35:09] [Server thread/INFO]: Rotnni[/127.184.198.167:54343] logged in with entity id 22 at ([world]-3037.5, 71.0, -235.5)
