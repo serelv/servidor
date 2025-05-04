@@ -51,3 +51,8 @@
 [12:44:39] [Server thread/INFO]: Rotnni joined the game
 [12:44:39] [Server thread/INFO]: Rotnni[/127.184.198.167:36201] logged in with entity id 31077 at ([world]-3001.1068942658203, 71.0, -201.73222205769085)
 [12:52:05] [Server thread/INFO]: Villager Villager['Fletcher'/31096, uuid='296767e1-1b52-41bc-818d-49888c29284a', l='ServerLevel[world]', x=-3016.33, y=71.00, z=-233.86, cpos=[-189, -15], tl=357817, v=true] died, message: 'Fletcher was slain by Rotnni'
+[12:59:43] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
+[12:59:43] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
+[13:00:26] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
+[13:00:26] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
+[13:01:53] [Server thread/INFO]: Rotnni issued server command: /capes
