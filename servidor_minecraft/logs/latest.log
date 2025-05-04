@@ -57,3 +57,18 @@
 [13:00:26] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
 [13:01:53] [Server thread/INFO]: Rotnni issued server command: /capes
 [13:06:19] [Server thread/INFO]: Villager Villager['Villager'/33281, uuid='de97f5db-bd1d-455b-87a4-db0a896c7d28', l='ServerLevel[world]', x=-3019.45, y=69.00, z=-190.26, cpos=[-189, -12], tl=16802, v=true] died, message: 'Villager was slain by Rotnni'
+[13:20:24] [Server thread/WARN]: Rotnni moved too quickly! 12.664825333784847,0.24813599859093927,1.7646082089915183
+[13:20:28] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[13:20:28] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
+[13:20:28] [Server thread/INFO]: Rotnni left the game
+[13:20:50] [User Authenticator #3/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[13:20:51] [Server thread/INFO]: Rotnni joined the game
+[13:20:51] [Server thread/INFO]: Rotnni[/127.184.198.167:38533] logged in with entity id 36547 at ([world]-3023.4296657648606, 71.52267261160824, -231.80562375896625)
+[13:23:39] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
+[13:23:39] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
+[13:24:25] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
+[13:24:25] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
+[13:36:13] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
+[13:36:13] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
+[13:36:31] [Server thread/INFO]: Rotnni issued server command: /summon minecraft:villager
+[13:36:31] [Server thread/INFO]: [Rotnni: Summoned new Villager]
