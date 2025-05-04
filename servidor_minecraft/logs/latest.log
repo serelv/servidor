@@ -45,3 +45,8 @@
 [12:26:45] [User Authenticator #1/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
 [12:26:48] [Server thread/INFO]: Rotnni joined the game
 [12:26:48] [Server thread/INFO]: Rotnni[/127.184.198.167:36501] logged in with entity id 19680 at ([world]-2989.677931218467, 74.0, -213.037750972781)
+[12:44:06] [Server thread/INFO]: Rotnni lost connection: Timed out
+[12:44:06] [Server thread/INFO]: Rotnni left the game
+[12:44:38] [User Authenticator #2/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[12:44:39] [Server thread/INFO]: Rotnni joined the game
+[12:44:39] [Server thread/INFO]: Rotnni[/127.184.198.167:36201] logged in with entity id 31077 at ([world]-3001.1068942658203, 71.0, -201.73222205769085)
