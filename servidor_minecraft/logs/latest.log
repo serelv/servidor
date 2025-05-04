@@ -38,3 +38,10 @@
 [11:35:06] [User Authenticator #0/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
 [11:35:08] [Server thread/INFO]: Rotnni joined the game
 [11:35:09] [Server thread/INFO]: Rotnni[/127.184.198.167:54343] logged in with entity id 22 at ([world]-3037.5, 71.0, -235.5)
+[11:47:41] [Server thread/WARN]: Rotnni moved too quickly! 11.138413927915735,1.2491870787446828,-0.7787192062756105
+[12:26:31] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[12:26:31] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
+[12:26:31] [Server thread/INFO]: Rotnni left the game
+[12:26:45] [User Authenticator #1/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[12:26:48] [Server thread/INFO]: Rotnni joined the game
+[12:26:48] [Server thread/INFO]: Rotnni[/127.184.198.167:36501] logged in with entity id 19680 at ([world]-2989.677931218467, 74.0, -213.037750972781)
