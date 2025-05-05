@@ -43,3 +43,19 @@
 [14:28:00] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
 [14:28:00] [Server thread/INFO]: Rotnni left the game
 [14:28:15] [User Authenticator #1/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[14:28:18] [Server thread/INFO]: Rotnni joined the game
+[14:28:18] [Server thread/INFO]: Rotnni[/127.184.198.167:49325] logged in with entity id 2763 at ([world]-2967.5824818165474, 71.48305205089503, -226.41682212632583)
+[14:32:41] [Server thread/WARN]: Rotnni moved too quickly! -16.013066077458006,1.380023674395531,-10.030858710169468
+[14:36:29] [Server thread/INFO]: Rotnni lost connection: Disconnected
+[14:36:29] [Server thread/INFO]: Rotnni left the game
+[14:36:45] [User Authenticator #2/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[14:36:46] [Server thread/INFO]: Rotnni joined the game
+[14:36:46] [Server thread/INFO]: Rotnni[/127.184.198.167:60705] logged in with entity id 6321 at ([world]-3048.178196549749, 71.0, -274.2977171094361)
+[14:37:38] [User Authenticator #2/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[14:37:38] [Server thread/INFO]: Rotnni lost connection: You logged in from another location
+[14:37:38] [Server thread/INFO]: Rotnni left the game
+[14:37:41] [Server thread/INFO]: Rotnni joined the game
+[14:37:41] [Server thread/INFO]: Rotnni[/127.184.198.167:44403] logged in with entity id 7824 at ([world]-3046.3156989039585, 71.0, -269.12176383478004)
+[14:38:16] [Server thread/INFO]: Rotnni lost connection: Disconnected
+[14:38:16] [Server thread/INFO]: Rotnni left the game
+[14:38:26] [User Authenticator #2/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
