@@ -59,3 +59,8 @@
 [14:38:16] [Server thread/INFO]: Rotnni lost connection: Disconnected
 [14:38:16] [Server thread/INFO]: Rotnni left the game
 [14:38:26] [User Authenticator #2/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[14:38:46] [Server thread/INFO]: Rotnni joined the game
+[14:38:46] [Server thread/INFO]: Rotnni[/127.184.198.167:53447] logged in with entity id 8250 at ([world]-3045.462103946109, 71.0, -267.0259340178368)
+[14:43:19] [Server thread/WARN]: Rotnni moved too quickly! -0.38607255450824596,0.2046003784434305,10.805043294013274
+[14:51:15] [Server thread/INFO]: Rotnni issued server command: /seed
+[14:52:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Rotnni> -3468 -578
