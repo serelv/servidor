@@ -1,80 +1,45 @@
-[11:34:43] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[11:34:43] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[11:34:43] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[11:34:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[11:34:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:34:51] [ServerMain/INFO]: Loaded 1290 recipes
-[11:34:51] [ServerMain/INFO]: Loaded 1399 advancements
-[11:34:52] [Server thread/INFO]: Starting minecraft server version 1.21
-[11:34:52] [Server thread/INFO]: Loading properties
-[11:34:52] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[11:34:52] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[11:34:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:34:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:34:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[11:34:54] [Server thread/INFO]: Default game type: SURVIVAL
-[11:34:54] [Server thread/INFO]: Generating keypair
-[11:34:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:34:54] [Server thread/INFO]: Using epoll channel type
-[11:34:54] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[11:34:54] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[11:34:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:34:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:34:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:34:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:34:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:34:54] [Server thread/INFO]: Preparing level "world"
-[11:34:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:34:56] [Server thread/INFO]: Time elapsed: 1738 ms
-[11:34:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[11:34:56] [Server thread/INFO]: Time elapsed: 251 ms
-[11:34:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[11:34:56] [Server thread/INFO]: Time elapsed: 102 ms
-[11:34:57] [Server thread/INFO]: [spark] Starting background profiler...
-[11:34:57] [Server thread/INFO]: Done preparing level "world" (3.108s)
-[11:34:57] [Server thread/INFO]: Running delayed init tasks
-[11:34:57] [Server thread/INFO]: Done (15.502s)! For help, type "help"
-[11:34:57] [Server thread/INFO]: Timings Reset
-[11:35:06] [User Authenticator #0/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[11:35:08] [Server thread/INFO]: Rotnni joined the game
-[11:35:09] [Server thread/INFO]: Rotnni[/127.184.198.167:54343] logged in with entity id 22 at ([world]-3037.5, 71.0, -235.5)
-[11:47:41] [Server thread/WARN]: Rotnni moved too quickly! 11.138413927915735,1.2491870787446828,-0.7787192062756105
-[12:26:31] [Server thread/WARN]: Rotnni was kicked for floating too long!
-[12:26:31] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
-[12:26:31] [Server thread/INFO]: Rotnni left the game
-[12:26:45] [User Authenticator #1/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[12:26:48] [Server thread/INFO]: Rotnni joined the game
-[12:26:48] [Server thread/INFO]: Rotnni[/127.184.198.167:36501] logged in with entity id 19680 at ([world]-2989.677931218467, 74.0, -213.037750972781)
-[12:44:06] [Server thread/INFO]: Rotnni lost connection: Timed out
-[12:44:06] [Server thread/INFO]: Rotnni left the game
-[12:44:38] [User Authenticator #2/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[12:44:39] [Server thread/INFO]: Rotnni joined the game
-[12:44:39] [Server thread/INFO]: Rotnni[/127.184.198.167:36201] logged in with entity id 31077 at ([world]-3001.1068942658203, 71.0, -201.73222205769085)
-[12:52:05] [Server thread/INFO]: Villager Villager['Fletcher'/31096, uuid='296767e1-1b52-41bc-818d-49888c29284a', l='ServerLevel[world]', x=-3016.33, y=71.00, z=-233.86, cpos=[-189, -15], tl=357817, v=true] died, message: 'Fletcher was slain by Rotnni'
-[12:59:43] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
-[12:59:43] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
-[13:00:26] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
-[13:00:26] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
-[13:01:53] [Server thread/INFO]: Rotnni issued server command: /capes
-[13:06:19] [Server thread/INFO]: Villager Villager['Villager'/33281, uuid='de97f5db-bd1d-455b-87a4-db0a896c7d28', l='ServerLevel[world]', x=-3019.45, y=69.00, z=-190.26, cpos=[-189, -12], tl=16802, v=true] died, message: 'Villager was slain by Rotnni'
-[13:20:24] [Server thread/WARN]: Rotnni moved too quickly! 12.664825333784847,0.24813599859093927,1.7646082089915183
-[13:20:28] [Server thread/WARN]: Rotnni was kicked for floating too long!
-[13:20:28] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
-[13:20:28] [Server thread/INFO]: Rotnni left the game
-[13:20:50] [User Authenticator #3/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
-[13:20:51] [Server thread/INFO]: Rotnni joined the game
-[13:20:51] [Server thread/INFO]: Rotnni[/127.184.198.167:38533] logged in with entity id 36547 at ([world]-3023.4296657648606, 71.52267261160824, -231.80562375896625)
-[13:23:39] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
-[13:23:39] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
-[13:24:25] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
-[13:24:25] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
-[13:36:13] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
-[13:36:13] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
-[13:36:31] [Server thread/INFO]: Rotnni issued server command: /summon minecraft:villager
-[13:36:31] [Server thread/INFO]: [Rotnni: Summoned new Villager]
-[13:37:18] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
-[13:37:18] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
-[13:38:13] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
-[13:38:13] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
-[13:40:30] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
-[13:40:30] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
+[14:18:19] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[14:18:19] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[14:18:19] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:18:20] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[14:18:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:18:27] [ServerMain/INFO]: Loaded 1290 recipes
+[14:18:28] [ServerMain/INFO]: Loaded 1399 advancements
+[14:18:28] [Server thread/INFO]: Starting minecraft server version 1.21
+[14:18:28] [Server thread/INFO]: Loading properties
+[14:18:28] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[14:18:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:18:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:18:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:18:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[14:18:30] [Server thread/INFO]: Default game type: SURVIVAL
+[14:18:30] [Server thread/INFO]: Generating keypair
+[14:18:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:18:30] [Server thread/INFO]: Using epoll channel type
+[14:18:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:18:30] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:18:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:18:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:18:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:18:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:18:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:18:30] [Server thread/INFO]: Preparing level "world"
+[14:18:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:18:34] [Server thread/INFO]: Time elapsed: 3083 ms
+[14:18:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:18:34] [Server thread/INFO]: Time elapsed: 329 ms
+[14:18:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:18:34] [Server thread/INFO]: Time elapsed: 119 ms
+[14:18:34] [Server thread/INFO]: [spark] Starting background profiler...
+[14:18:35] [Server thread/INFO]: Done preparing level "world" (4.543s)
+[14:18:35] [Server thread/INFO]: Running delayed init tasks
+[14:18:35] [Server thread/INFO]: Done (16.740s)! For help, type "help"
+[14:18:35] [Server thread/INFO]: Timings Reset
+[14:18:42] [User Authenticator #0/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[14:18:44] [Server thread/INFO]: Rotnni joined the game
+[14:18:45] [Server thread/INFO]: Rotnni[/127.184.198.167:41073] logged in with entity id 22 at ([world]-3039.5151390374813, 71.5625, -236.14459298839662)
+[14:21:16] [Server thread/WARN]: Rotnni moved too quickly! -2.9167293686273297,-0.37673561378173304,-10.047153071429733
+[14:28:00] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[14:28:00] [Server thread/INFO]: Rotnni lost connection: Flying is not enabled on this server
+[14:28:00] [Server thread/INFO]: Rotnni left the game
+[14:28:15] [User Authenticator #1/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
