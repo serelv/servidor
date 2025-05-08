@@ -39,3 +39,16 @@
 [22:01:00] [Server thread/INFO]: Rotnni joined the game
 [22:01:00] [Server thread/INFO]: Rotnni[/127.75.236.123:53117] logged in with entity id 22 at ([world]-3040.975674024678, 71.0, -238.2045706426512)
 [22:59:52] [Server thread/INFO]: Villager Villager['Villager'/8444, uuid='186b81ec-e3e5-457c-b0a9-022ce597ea41', l='ServerLevel[world]', x=-3017.37, y=71.00, z=-212.42, cpos=[-189, -14], tl=2487, v=true] died, message: 'Villager was slain by Rotnni'
+[23:03:41] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
+[23:03:41] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
+[23:03:49] [Server thread/INFO]: Rotnni issued server command: /summon minecraft:villager
+[23:03:49] [Server thread/INFO]: [Rotnni: Summoned new Villager]
+[23:03:51] [Server thread/INFO]: Rotnni issued server command: /summon minecraft:villager
+[23:03:51] [Server thread/INFO]: [Rotnni: Summoned new Villager]
+[23:03:54] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
+[23:03:54] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
+[23:10:21] [Server thread/INFO]: Rotnni lost connection: Timed out
+[23:10:21] [Server thread/INFO]: Rotnni left the game
+[23:10:31] [User Authenticator #1/INFO]: UUID of player Rotnni is 87495cd5-5a74-35b0-9247-10218eab97fe
+[23:10:32] [Server thread/INFO]: Rotnni joined the game
+[23:10:32] [Server thread/INFO]: Rotnni[/127.75.236.123:45955] logged in with entity id 10889 at ([world]-3251.300000011921, 61.0, -180.24856650517677)
