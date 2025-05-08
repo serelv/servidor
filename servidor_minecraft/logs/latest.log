@@ -45,3 +45,11 @@
 [00:57:15] [Server thread/INFO]: Rotnni joined the game
 [00:57:15] [Server thread/INFO]: Rotnni[/127.56.229.0:52579] logged in with entity id 2220 at ([world]-3013.4164692037657, 74.0, -224.26446551972353)
 [00:58:30] [Server thread/WARN]: Rotnni moved too quickly! 9.634541077023187,0.15233518685055003,4.7211348491447325
+[01:05:26] [Server thread/INFO]: Rotnni issued server command: /gamemode spectator
+[01:05:26] [Server thread/INFO]: [Rotnni: Set own game mode to Spectator Mode]
+[01:05:50] [Server thread/INFO]: Rotnni issued server command: /gamemode survival
+[01:05:50] [Server thread/INFO]: [Rotnni: Set own game mode to Survival Mode]
+[01:09:44] [Server thread/INFO]: Rotnni has made the advancement [Diamonds!]
+[01:10:06] [Server thread/INFO]: Villager Villager['Villager'/2557, uuid='27716cc9-5b51-4393-b742-d667888fdbb5', l='ServerLevel[world]', x=-2883.10, y=68.23, z=-22.91, cpos=[-181, -2], tl=113572, v=true] died, message: 'Villager was slain by Zombie'
+[01:10:16] [Server thread/INFO]: Villager Villager['Villager'/2556, uuid='06eb6602-880a-45fc-abdc-611a96cee0a7', l='ServerLevel[world]', x=-2877.93, y=67.00, z=-23.30, cpos=[-180, -2], tl=66974, v=true] died, message: 'Villager was slain by Zombie'
+[01:10:24] [Server thread/INFO]: Villager Villager['Villager'/2558, uuid='1f0fea7d-5d71-4cae-abbc-086001fafa53', l='ServerLevel[world]', x=-2886.55, y=69.00, z=-24.30, cpos=[-181, -2], tl=113944, v=true] died, message: 'Villager was slain by Zombie'
